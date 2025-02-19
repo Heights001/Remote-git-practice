@@ -1,0 +1,15 @@
+body{
+  background-color: rgb(30, 212, 188);
+  color: rgb(7, 3, 3);
+}
+
+
+li{
+  font-weight: 900;
+  font-size: x-large;
+}
+
+p{
+  list-style-type: none;
+  font-size: 50px;
+}
